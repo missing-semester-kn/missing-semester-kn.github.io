@@ -46,7 +46,7 @@ Git ನ interface ಆಕರ್ಷಕವಲ್ಲ ಎಂಬುದು ಸತ್ಯ
 
 Git ನ ಮೇಧಾವಿತ್ವವು ಅದರ ಸುಸಂರಚಿತ data model ನಲ್ಲಿ ಇದೆ; ಇದೇ version control ನ ಅನೇಕ ಉಪಯುಕ್ತ ಲಕ್ಷಣಗಳನ್ನು - ಉದಾಹರಣೆಗೆ history ನಿರ್ವಹಣೆ, branches ಬೆಂಬಲ, ಮತ್ತು collaboration - ಸಾಧ್ಯಗೊಳಿಸುತ್ತದೆ.
 
-## Snapshot ಗಳು
+## Snapshot ಗಳು {#snapshots}
 
 Git, ನಿರ್ದಿಷ್ಟ top-level directory ಒಳಗಿನ files ಮತ್ತು folders ಗಳ ಇತಿಹಾಸವನ್ನು snapshots ಗಳ ಸರಣಿಯಾಗಿ ಮಾದರೀಕರಿಸುತ್ತದೆ. Git ಪದಪ್ರಯೋಗದಲ್ಲಿ file ಅನ್ನು
 "blob" ಎಂದು ಕರೆಯುತ್ತಾರೆ; ಅದು bytes ಗಳ ಸಮೂಹ ಮಾತ್ರ. directory ಅನ್ನು "tree" ಎಂದು ಕರೆಯುತ್ತಾರೆ; ಅದು ಹೆಸರುಗಳನ್ನು blobs ಅಥವಾ trees ಗಳಿಗೆ ನಕ್ಷೆಗೊಳಿಸುತ್ತದೆ (ಅಂದರೆ directories ಒಳಗೆ ಇತರ directories ಇರಬಹುದು). snapshot ಎಂದರೆ ಟ್ರ್ಯಾಕ್ ಮಾಡಲಾಗುತ್ತಿರುವ top-level tree.

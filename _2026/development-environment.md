@@ -173,7 +173,7 @@ Vim ಕಲಿಯಲು ಅತ್ಯುತ್ತಮ ವಿಧಾನ: ಮೂಲಭ
 - `vimtutor` Vim ಜೊತೆ ಬರುತ್ತದೆ - Vim install ಇದ್ದರೆ shell ನಿಂದ `vimtutor` run ಮಾಡಬಹುದು
 - [Vim Adventures](https://vim-adventures.com/) - Vim ಕಲಿಯುವ ಆಟ
 - [Vim Tips Wiki](https://vim.fandom.com/wiki/Vim_Tips_Wiki)
-- [Vim Advent Calendar](https://vimways.org/2019/) - ಹಲವು Vim ಸಲಹೆಗಳು
+- [Vim Advent Calendar](https://web.archive.org/web/20200207065407/https://vimways.org/2019/) - ಹಲವು Vim ಸಲಹೆಗಳು
 - [VimGolf](https://www.vimgolf.com/) - [code golf](https://en.wikipedia.org/wiki/Code_golf), ಆದರೆ programming language Vim UI
 - [Vi/Vim Stack Exchange](https://vi.stackexchange.com/)
 - [Vim Screencasts](http://vimcasts.org/)
