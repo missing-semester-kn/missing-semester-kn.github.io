@@ -311,7 +311,7 @@ security concepts, tips
 # Resources
 
 - [Last year's notes](/2019/security/): from when this lecture was more focused on security and privacy as a computer user
-- [Cryptographic Right Answers](https://www.latacora.com/blog/cryptographic-right-answers/): answers "what crypto should I use for X?" for many common X.
+- [Cryptographic Right Answers](https://latacora.micro.blog/2018/04/03/cryptographic-right-answers.html): answers "what crypto should I use for X?" for many common X.
 
 # Exercises
 
